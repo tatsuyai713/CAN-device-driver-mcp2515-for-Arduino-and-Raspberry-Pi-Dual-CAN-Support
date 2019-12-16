@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<paths>
+
+  <path>.</path>
+
+  <path>mcp2515</path>
+
+  <path>mcp2515/blocks</path>
+
+  <path>mcp2515/example</path>
+
+</paths>

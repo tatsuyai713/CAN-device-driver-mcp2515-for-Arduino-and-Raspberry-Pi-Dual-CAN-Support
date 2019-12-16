@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<addonCore>
+
+  <label>CAN device driver mcp2515 for Arduino and Raspberry Pi</label>
+
+  <version>2.0.0.0</version>
+
+  <type>zip</type>
+
+  <identifier>051e6eaa-ef2d-4b5a-be0a-2e3177381711</identifier>
+
+  <createdBy name="Akihiro Yasuda"/>
+
+  <image>resources/screenshot.png</image>
+
+</addonCore>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>051e6eaa-ef2d-4b5a-be0a-2e3177381711</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>CAN device driver mcp2515 for Arduino and Raspberry Pi</name>
+  <author>Akihiro Yasuda</author>
+  <version>2.0.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/64782/versions/1/download/zip?src=addons_ml_desktop_install&amp;profile_id=1059699&amp;license=0&amp;release_family=R2018b</downloadUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/submissions/64782/versions/1/screenshot.jpg</previewImageUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
